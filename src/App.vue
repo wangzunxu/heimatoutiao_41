@@ -1,13 +1,12 @@
 <template>
   <div id="app">
-    aa
+
   </div>
 </template>
 
 <script>
 
 export default {
-  name: 'app'
 }
 </script>
 
